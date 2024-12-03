@@ -1,4 +1,4 @@
-### **README: Trash Classification Using CNN (MobileNetV2)**  
+### **README: Trash Classification Using CNN (MobileNetV2)** 🗑️  
 
 ---
 
@@ -48,8 +48,6 @@ The dataset is sourced from [Hugging Face - TrashNet Dataset](https://huggingfac
 - Test the model on unseen data and evaluate its performance using metrics such as accuracy, precision, recall, and F1-score.  
 
 ---
-
-## **How to Run the Project**  
 
 ### **Requirements**  
 - Python 3.8 or later  
