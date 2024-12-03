@@ -1,4 +1,4 @@
-### **README: Trash Classification Using CNN (MobileNetV2)** 🗑️  
+### **Trash Classification Using CNN (MobileNetV2)** 🗑️  
 
 ---
 
